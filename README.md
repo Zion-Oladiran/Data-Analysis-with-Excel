@@ -1,7 +1,9 @@
 ![image](https://github.com/user-attachments/assets/2b772566-96bd-4666-a311-a9df06f9a20e)# Data-Analysis-with-Excel
 
-This folder contains the dataset I analysed using Microsoft Excel
-
+##Problem Statement 
+ 
+A United States retail company wants to analyze sales data to generate insights for its growth. The  company wants to know the most profitable region and the product categories that generate the most  profit.
+  
 
 #Here are some insights from the dataset;
 
